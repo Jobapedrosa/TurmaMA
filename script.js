@@ -86,8 +86,8 @@ function respostaSelecionada(opcaoSelecionada){
 
 function mostraResultado(){
     caixaPerguntas.textContent = "Olha só o que podemos afirmar sobre você...";
-    textoResultado.innerHTML = historiaFinal;
-    caixaAlternativas.innerHTML = "";
+    textoResultado.textContent = historiaFinal;
+    caixaAlternativas.textContent = "";
 }
 
 mostraPergunta(); 
