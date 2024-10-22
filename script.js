@@ -10,7 +10,7 @@ const perguntas = [
 
         alternativas: [
             {
-                texto:"Reportar a situação a um responsável.",
+                texto:"Reportar a situação a um Responsável.",
                 afirmacao: "Você é contra o Bullying porém prefere não se envolver diretamente delegando essa responsabilidade a uma autoridade que você julga competente."
             },
             {
